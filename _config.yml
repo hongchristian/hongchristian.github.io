@@ -1,0 +1,15 @@
+title: "Christian Hong"
+description: "PhD in Applied Mathematics"
+github_username: hongchristian
+logo: /assets/img/logo.png
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+
