@@ -1,9 +1,12 @@
 title: "Christian Hong"
-description: "PhD in Applied Mathematics, 2026"
-github_username: hongchristian
 author: Christian Hong
-email: hongchristian@gmail.com
-logo: /assets/img/logo.png
+email: christianhong@math.ucsb.com
+picture: /assets/img/logo.png
+
+description: "PhD in Applied Mathematics"
+school: "UC Santa Barbara, 2026"
+github_username: hongchristian
+
 theme: jekyll-theme-minimal
 
 plugins:

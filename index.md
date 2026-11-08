@@ -4,7 +4,7 @@ layout: default
 
 ### About me
 
-I am
+I earned my Ph.D. in Applied Mathematics at UC Santa Barbara in 2026 under [Gustavo Ponce](https://web.math.ucsb.edu/~ponce/) and [Hector D. Ceniceros](https://web.math.ucsb.edu/~hdc/). Here is my [CV](/CV.pdf). You can reach me via email at <christianhong@math.ucsb.edu>.
 
 ## Research Interests
 
@@ -19,4 +19,4 @@ I am
 ### Teaching Associate at UC Santa Barbara
 
 - **Summer 2024:** Math 6B, Vector Calculus 2
-- **Summer 2022:** Math 6B, Vector Calculus 2 
+- **Summer 2022:** Math 6B, Vector Calculus 2
