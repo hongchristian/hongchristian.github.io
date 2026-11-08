@@ -21,11 +21,17 @@
           <img src="{{site.picture | relative_url}}" alt="Picture" />
         {% endif %}
 
+        {% if site.picture %}
         <p>{{ site.description }}</p>
+        {% endif %}
 
+        {% if site.school %}
         <p>{{ site.school }}</p>
+        {% endif %}
 
+        {% if site.email %}
         <p>Email: {{ site.email }}</p>
+        {% endif %}
 
       </header>
       <section>

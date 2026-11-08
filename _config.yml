@@ -1,11 +1,10 @@
 title: "Christian Hong"
 author: Christian Hong
-email: christianhong@math.ucsb.com
 picture: /assets/img/picture.jpg
 
 description: "PhD in Applied Mathematics"
-school: "UC Santa Barbara, 2026"
-github_username: hongchristian
+# school: "UC Santa Barbara, 2026"
+# email: christianhong@math.ucsb.com
 
 theme: jekyll-theme-minimal
 
